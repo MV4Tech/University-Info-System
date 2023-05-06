@@ -1,0 +1,19 @@
+<GroupBox Header="Студентска Инфорамция" HorizontalAlignment="Left" Height="324" Margin="11,261,0,0" VerticalAlignment="Top" Width="848" RenderTransformOrigin="0.5,0.5" FontSize="16">
+            <GroupBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </GroupBox.RenderTransform>
+        </GroupBox>
+
+
+
+-----------------------------------------------------------------------------------------
+
+
+<GroupBox Header="Лични Данни" HorizontalAlignment="Left" Height="221" Margin="10,10,0,0" VerticalAlignment="Top" Width="848" FontSize="16"/>
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
